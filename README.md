@@ -1,3 +1,5 @@
+![ngGirls Logo](https://raw.githubusercontent.com/ngGirlsRio/codigo/master/logo.png)
+
 # Perguntas Frequentes (FAQ) sobre o ngGirls Rio de Janeiro
 
 1. **Pergunta:** O ngGirls é gratuito? **Resposta:** Sim. O workshop é totalmente gratuito. 
